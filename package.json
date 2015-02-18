@@ -1,11 +1,14 @@
 {
   "name": "application.module.networking",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "license": "MIT",
+  "main": "./lib/application.module.networking",
   "homepage": "https://github.com/luscus/application.module.networking",
   "author": "https://github.com/luscus/application.module.networking/graphs/contributors",
+  "bugs": "https://github.com/luscus/node-application.module.networking/issues",
   "description": "Wraps socket models, protocols and networking patterns for an easy use in service applications.",
   "keywords": [
-    "application.module.networking",
+    "networking",
     "socket",
     "microservice"
   ],
@@ -27,6 +30,7 @@
     "type": "git",
     "url": "git@github.com:luscus/application.module.networking.git"
   },
-  "main": "./lib/application.module.networking",
-  "bugs": "https://github.com/luscus/node-application.module.networking/issues"
+  "scripts": {
+    "test": "grunt test"
+  }
 }
