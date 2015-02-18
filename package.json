@@ -10,7 +10,7 @@
     "microservice"
   ],
   "dependencies": {
-    "socket.base": "0.0.9",
+    "socket.base": "0.0.10",
     "prototype-less": "0.1.2",
     "package.loader": "0.2.1"
   },

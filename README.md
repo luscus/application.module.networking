@@ -1,4 +1,4 @@
-# application.module.networking
+# [application.module.networking](https://github.com/luscus/application.module.networking)
 
 [![NPM](https://nodei.co/npm/application.module.networking.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/application.module.networking/)
 
