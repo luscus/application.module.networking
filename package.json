@@ -1,6 +1,6 @@
 {
   "name": "application.module.networking",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "main": "./lib/application.module.networking",
   "homepage": "https://github.com/luscus/application.module.networking",
@@ -13,7 +13,7 @@
     "microservice"
   ],
   "dependencies": {
-    "socket.base": "0.0.10",
+    "socket.base": "0.0.12",
     "prototype-less": "0.1.2",
     "package.loader": "0.2.1"
   },
