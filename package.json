@@ -1,6 +1,6 @@
 {
   "name": "application.module.networking",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "license": "MIT",
   "main": "./lib/application.module.networking",
   "homepage": "https://github.com/luscus/application.module.networking",
@@ -14,9 +14,9 @@
   ],
   "dependencies": {
     "node.extend": "1.1.2",
-    "socket.base": "0.0.15",
+    "socket.base": "0.0.16",
     "prototype-less": "0.1.2",
-    "package.loader": "0.2.1"
+    "package.loader": "0.2.3"
   },
   "devDependencies": {
     "grunt": "0.4.5",
