@@ -1,6 +1,6 @@
 {
   "name": "application.module.networking",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "MIT",
   "main": "./lib/application.module.networking",
   "homepage": "https://github.com/luscus/application.module.networking",
