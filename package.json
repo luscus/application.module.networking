@@ -13,7 +13,7 @@
     "microservice"
   ],
   "dependencies": {
-    "node.extend": "1.1.2",
+    "node.extend": "1.1.7",
     "socket.base": "0.0.17",
     "prototype-less": "0.1.2",
     "package.loader": "0.2.3"
